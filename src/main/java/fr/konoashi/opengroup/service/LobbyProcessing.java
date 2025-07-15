@@ -106,7 +106,7 @@ public class LobbyProcessing extends TimerTask {
 
     public int endingPreviousPlaylistIndex() {
         int size = App.dataList.size();
-        for (int i = size; i-- > 0; ) {
+        for (int i = 0; i < size; i++) {
             if (App.dataList.get(i).getString("gameMode").equals("Team")) {
                 return i;
             }
