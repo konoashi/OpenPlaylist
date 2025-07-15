@@ -1,0 +1,15 @@
+/gradle/wrapper/gradle-wrapper.jar
+/build/
+/.idea/
+/.gradle/
+/map_stats_log3.txt
+/test.py
+/stats.py
+/map_stats_log2.txt
+/map_stats_log.txt
+/java_pid14212.hprof
+/map_stats_log3.txt
+/test.txt
+/src/main/proto/
+/src/main/java/org/example/
+/src/main/java/fr/konoashi/tcgp/
